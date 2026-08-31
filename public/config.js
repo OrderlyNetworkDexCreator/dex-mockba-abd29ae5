@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "mockba",
   "VITE_ORDERLY_BROKER_NAME": "Mockba",
   "VITE_BROKER_EOA_ADDRESS": "0x3ae89dcd51cd985338a96be7de5ff191713cbf2a",
   "VITE_DISABLE_MAINNET": "false",
