@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "7a4deb92d3e4929e327b99a7aedb9289",
   "VITE_APP_NAME": "Mockba",
   "VITE_APP_DESCRIPTION": "Mockba is a decentralized exchange built on Orderly Network, giving traders fast, transparent, non-custodial access to crypto perpetuals and spot markets. With deep Orderly liquidity, transparent order-book matching, and a clean low-latency interface.",
   "VITE_HAS_PRIMARY_LOGO": "true",
